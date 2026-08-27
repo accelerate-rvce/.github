@@ -10,14 +10,14 @@
 <br/>
 
 ![Established](https://img.shields.io/badge/Est-2023-22B6F4?style=for-the-badge&labelColor=0A0A0F)
-![Department](https://img.shields.io/badge/RVCE-Department%20of%20CSE-8B3FEE?style=for-the-badge&labelColor=0A0A0F)
+![Department](https://img.shields.io/badge/RVCE-Department_of_CSE-8B3FEE?style=for-the-badge&labelColor=0A0A0F)
 ![Status](https://img.shields.io/badge/Status-Active-3B6FE0?style=for-the-badge&labelColor=0A0A0F)
 
 <br/><br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-accelerate.rvce-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/accelerate.rvce/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Accelerate%20RVCE-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/accelerate-rvce/)
-[![Website](https://img.shields.io/badge/Website-Accelerate%20RVCE-22B6F4?style=flat-square&logo=googlechrome&logoColor=white)](https://rvce.edu.in/innovative_teams/accelerate_club/)
+[![Instagram](https://img.shields.io/badge/Instagram-Accelerate_rvce-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/accelerate_rvce/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Accelerate_RVCE-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/accelerate-rvce/)
+[![Website](https://img.shields.io/badge/Website-Accelerate_RVCE-22B6F4?style=flat-square&logo=googlechrome&logoColor=white)](https://accelerate-rvce.github.io/)
 
 </div>
 
@@ -94,7 +94,7 @@ We conduct inductions at the beginning of each academic year and welcome contrib
 
 <div align="center">
 
-![Open to RVCE CSE Students](https://img.shields.io/badge/Open%20to-All%20RVCE%20CSE%20Students-22B6F4?style=for-the-badge&labelColor=0A0A0F)
+![Open to RVCE CSE Students](https://img.shields.io/badge/Open_to-All_RVCE_CSE_Students-22B6F4?style=for-the-badge&labelColor=0A0A0F)
 
 </div>
 
